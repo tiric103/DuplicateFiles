@@ -11,7 +11,7 @@ public class Duplicate: IDuplicate
             path
         };
     }
-    public IEnumerable<string> FilePaths { get; }
+    public IEnumerable<string> FilePaths { get; set; }
 
     public string Filename { get; }
     

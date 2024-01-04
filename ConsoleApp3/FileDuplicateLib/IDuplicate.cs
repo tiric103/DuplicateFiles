@@ -2,7 +2,7 @@
 
 public interface IDuplicate
 {
-    IEnumerable<string> FilePaths { get; }
+    IEnumerable<string> FilePaths { get; set; }
     string Filename { get; }
     long FileSize { get; }
 }

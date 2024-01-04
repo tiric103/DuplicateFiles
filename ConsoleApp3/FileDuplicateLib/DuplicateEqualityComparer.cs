@@ -20,6 +20,10 @@ public class DuplicateEqualityComparer: IEqualityComparer<IDuplicate>
 
     public int GetHashCode(IDuplicate obj)
     {
-        return HashCode.Combine(obj.FilePaths, obj.Filename, obj.FileSize);
+        return _mode switch
+        {
+            ComparisonMode.Size => HashCode.Combine(obj.FileSize),
+            _ => HashCode.Combine(obj.Filename.ToLowerInvariant(), obj.FileSize)
+        };
     }
 }
