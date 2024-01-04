@@ -1,0 +1,12 @@
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\FileDuplicateLib.csproj.AssemblyReference.cache
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\FileDuplicateLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\FileDuplicateLib.AssemblyInfoInputs.cache
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\FileDuplicateLib.AssemblyInfo.cs
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\FileDuplicateLib.csproj.CoreCompileInputs.cache
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\bin\Debug\net6.0\FileDuplicateLib.deps.json
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\bin\Debug\net6.0\FileDuplicateLib.dll
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\bin\Debug\net6.0\FileDuplicateLib.pdb
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\FileDuplicateLib.dll
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\refint\FileDuplicateLib.dll
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\FileDuplicateLib.pdb
+C:\Users\n655061\source\repos\ConsoleApp3\FileDuplicateLib\obj\Debug\net6.0\ref\FileDuplicateLib.dll
